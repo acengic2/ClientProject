@@ -1,0 +1,77 @@
+{
+    "landscapes": {
+        "SelectPicture": "Select the type",
+        "Sunrise": 0,
+        "Sunset": 0,
+        "Night": 0
+    },
+    "black&white": { 
+        "SelectPicture": "Select the type",
+        "landscapes": 0,
+        "sport": 0,
+        "portrait": 0
+    },
+    "sport": {
+        "SelectPicture": "Select the type",
+        "inmotion": 0,
+        "field": 0,
+        "studio": 0
+    },
+    "portrait": {
+        "SelectPicture": "Select the type",
+        "men": {
+            "colorOFHair": "select the color",
+            "blonde": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            },
+            "black": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            },
+            "brown": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            }
+        },
+        "woman": {
+            "colorOFHair": "select the color",
+            "blonde": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            },
+            "black": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            },
+            "brown": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            }
+        },
+        "kids": {
+            "colorOFHair": "select the color",
+            "blonde": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            },
+            "black": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            },
+            "brown": {
+                "color of eyes": "Select the color",
+                "black": 0,
+                "brown": 0
+            }
+        }
+    }
+}
