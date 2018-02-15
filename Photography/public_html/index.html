@@ -1,16 +1,27 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
+
 <html>
     <head>
         <title>Photogaphy</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="js/app.js" type="module"></script>
     </head>
     <body>
-        <div>TODO write content</div>
+         <h1>Photography App</h1>
+
+        <!-- NOTE: In order to trigger javascript, remember to use the 'onclick' HTML attribute. -->
+        <!-- NOTE: The '#' symbol in the "href" keeps the HTML page from refreshing.  -->
+        <ul  id="nav">
+            <!-- Add button, this will add a new animal to the group -->
+            <li><a id="add" href="#">Add</a></li>
+        </ul>
+        
+        <div id="pictureList" class="panel"><b>LIST OF Pictures</b></div>
+
+        <!-- keep track of what the user is doing here, 
+            like when the user clicks the 'add' button, log it 
+        -->
+        <div id="log" class="panel"><b>LOG</b></div>      
     </body>
 </html>
